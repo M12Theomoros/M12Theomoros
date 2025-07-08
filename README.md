@@ -34,9 +34,9 @@
 ## 💡 Fun Facts About Me
 
 <ul>
-  <li>🔍 I'm learning to ethically break systems before bad actors do – penetration testing is both art and defense.</li>
+  <li>🚀 I turn challenges into opportunities by uncovering hidden system behaviours and securing them.</li>
   <li>🎬 I edit videos that turn ideas into visual stories — from tech tutorials to creative edits.</li>
-  <li>💡 I once automated a boring manual task using only Bash and a bit of Python — saving hours weekly!</li>
+  <li>📚 I relentlessly learn and innovate every day to build a lasting legacy in the technology sector.</li>
   <li>🛠️ I tinker with <strong>Arduino boards</strong> to create real-world smart tech prototypes. </li>
   <li>🎯 My ultimate goal? To merge <strong>AI</strong>, <strong>security</strong>, and <strong>hardware</strong> to protect and empower the next generation.</li>
 </ul>
@@ -51,9 +51,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/yourprofile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+  <a href="mailto:miracledmike12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/M12Theomoros" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
 
 ---
