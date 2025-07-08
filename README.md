@@ -1,10 +1,10 @@
 <!-- Stylish Animated Header -->
 <h1 align="center" style="font-size: 2.5rem; font-weight: bold; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-  👋 Hello World! I'm <span style="color:#facc15;">Michael Habtamu</span>
+  👋 Hi there! I'm <span style="color:#facc15;">Michael Habtamu</span>
 </h1>
 
 <h3 align="center" style="color: #aaa; font-style: italic;">
-  ⚙️ Tech Innovator | 🛡️ Penetration Tester in Training | 🎬 Video Editor | 🧠 Secure Solutions Builder
+  ⚙️ Tech Innovator | 🛡️ Penetration Tester in Training | 🎬 Video Editor | 🧠 Building secure solutions for real-world problems.
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 "The most powerful tool isn’t code, it’s curiosity."
+### ✨ *"The most powerful tool isn’t code, it’s curiosity."*
 
 <blockquote align="center" style="font-size: 1.2rem; font-style: italic; color: #00d4ff;">
   “I don’t just write code — I solve problems, tell stories, and secure the future.”  
@@ -25,17 +25,48 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,html,css,linux,bash,js,nodejs,react,git,github,vercel,netlify,firebase&theme=dark&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,linux,bash,js,nodejs,react,git,github,vercel,netlify,firebase,arduino&theme=dark&perline=7" alt="Tech stack icons" />
   
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💡 Fun Facts About Me
 
-```html
-<Professional>
-  <Name>Michael Habtamu</Name>
-  <Title>Tech Innovator | Penetration Tester in Training | Video Editor</Title>
-  <Mission>Design and secure intelligent systems that impact lives globally</Mission>
-</Professional>
+<ul>
+  <li>🔍 I'm learning to ethically break systems before bad actors do – penetration testing is both art and defense.</li>
+  <li>🎬 I edit videos that turn ideas into visual stories — from tech tutorials to creative edits.</li>
+  <li>💡 I once automated a boring manual task using only Bash and a bit of Python — saving hours weekly!</li>
+  <li>🛠️ I tinker with <strong>Arduino boards</strong> to create real-world smart tech prototypes. </li>
+  <li>🎯 My ultimate goal? To merge <strong>AI</strong>, <strong>security</strong>, and <strong>hardware</strong> to protect and empower the next generation.</li>
+</ul>
+
+---
+
+> Curious to know more about my builds and hacks?  
+👉 [Check out my repositories here](https://github.com/M12Theomoros?tab=repositories)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/yourprofile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M12Theomoros&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=M12Theomoros&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</div>
+
+---
+
+<p align="center" style="color:gray; font-style:italic">
+  🔐 “Security isn’t a feature — it’s a responsibility.”
+</p>
