@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools I Use
+## 🛠️ Tech Stacks & Tools I Use
 
 <div align="center">
 
