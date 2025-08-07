@@ -54,7 +54,7 @@
   <a href="mailto:miracledmike12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/M12Theomoros" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
----
+
 
 <p align="center" style="color:gray; font-style:italic">
   🔐 “Security isn’t a feature — it’s a responsibility.”
