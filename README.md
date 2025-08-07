@@ -1,6 +1,6 @@
 <!-- Stylish Animated Header -->
 <h1 align="center" style="font-size: 2.5rem; font-weight: bold; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-  👋 Hi there! I'm <span style="color:#facc15;">Michael Habtamu</span>
+  👋 Hi there! I'm <span style="color:#facc15;">Michael</span>
 </h1>
 
 <h3 align="center" style="color: #aaa; font-style: italic;">
