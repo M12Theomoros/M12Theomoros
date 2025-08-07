@@ -54,16 +54,6 @@
   <a href="mailto:miracledmike12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/M12Theomoros" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M12Theomoros&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=M12Theomoros&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</div>
-
 ---
 
 <p align="center" style="color:gray; font-style:italic">
