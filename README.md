@@ -32,17 +32,8 @@
 ## 💡 Fun Facts About Me
 
 <ul>
-  <li>🕵️‍♂️ I spot hidden glitches and turn them into wins.</li>
+  🕵️‍♂️ I spot hidden glitches and turn them into wins.
 </ul>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M12Theomoros&show_icons=true&theme=radical&hide_title=true" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M12Theomoros&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -57,6 +48,17 @@
   <a href="mailto:miracledmike12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/M12Theomoros" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M12Theomoros&show_icons=true&theme=radical&hide_title=true" alt="Michael's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M12Theomoros&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 
 <p align="center" style="color:gray; font-style:italic">
   🔐 “Security isn’t a feature — it’s a responsibility.”
