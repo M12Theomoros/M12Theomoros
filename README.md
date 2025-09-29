@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="color: #aaa; font-style: italic;">
-  ⚙️ Tech Innovator | 🛡️ Penetration Tester in Training | 🎬 Video Editor | 🧠 Building secure solutions for real-world problems.
+  ⚙️ Tech Innovator | 🛡️ Penetration Tester in Training | 🎬 Video Editor | 🧠 Building secure solutions for real-world problems
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ### ✨ *"The most powerful tool isn’t code, it’s curiosity."*
 
 <blockquote align="center" style="font-size: 1.2rem; font-style: italic; color: #00d4ff;">
-  “I don’t just write code — I solve problems, tell stories, and secure the future.”  
+  “I don’t just write code — I solve problems, tell stories, and secure the future.”
 </blockquote>
 
 ---
@@ -24,9 +24,7 @@
 ## 🛠️ Tech Stacks & Tools I Use
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=python,html,css,linux,bash,js,nodejs,react,git,github,vercel,netlify,firebase,arduino&theme=dark&perline=7" alt="Tech stack icons" />
-  
 </div>
 
 ---
@@ -34,8 +32,17 @@
 ## 💡 Fun Facts About Me
 
 <ul>
-  <li>🕵️‍♂️ I turn challenges into opportunities by uncovering hidden system behaviours and securing them.</li>
+  <li>🕵️‍♂️ I spot hidden glitches and turn them into wins.</li>
 </ul>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M12Theomoros&show_icons=true&theme=radical&hide_title=true" alt="Michael's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M12Theomoros&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -50,7 +57,6 @@
   <a href="mailto:miracledmike12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/M12Theomoros" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 </p>
-
 
 <p align="center" style="color:gray; font-style:italic">
   🔐 “Security isn’t a feature — it’s a responsibility.”
