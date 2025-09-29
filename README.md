@@ -34,11 +34,7 @@
 ## 💡 Fun Facts About Me
 
 <ul>
-  <li>🚀 I turn challenges into opportunities by uncovering hidden system behaviours and securing them.</li>
-  <li>🎬 I edit videos that turn ideas into visual stories — from tech tutorials to creative edits.</li>
-  <li>📚 I relentlessly learn and innovate every day to build a lasting legacy in the technology sector.</li>
-  <li>🛠️ I tinker with <strong>Arduino boards</strong> to create real-world smart tech prototypes. </li>
-  <li>🎯 My ultimate goal? To merge <strong>AI</strong>, <strong>security</strong>, and <strong>hardware</strong> to protect and empower the next generation.</li>
+  <li>🕵️‍♂️ I turn challenges into opportunities by uncovering hidden system behaviours and securing them.</li>
 </ul>
 
 ---
