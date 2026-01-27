@@ -30,6 +30,8 @@ I am a CTF player 🕹️🔐 continuously sharpening my skills in security, rev
 
 I enjoy collaborating with like-minded developers to build secure, meaningful systems that simplify complexity and create real impact. 🌐💡
 
+---
+
 ### ✨ *"The most powerful tool isn’t code, it’s curiosity."*
 
 <blockquote align="center" style="font-size: 1.2rem; font-style: italic; color: #00d4ff;">
