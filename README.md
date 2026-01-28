@@ -126,10 +126,9 @@ When I’m not coding, I often play chess ♟️ — it helps me sharpen my prob
 
 ---
 
-<p align="center">
-  <strong style="font-size: 1.2rem;">Curious to explore the projects I build and the problems I solve?</strong><br/>
-  <a href="https://github.com/M12Theomoros?tab=repositories" style="font-size: 1.2rem;">👉 Check out my repositories here</a>
-</p>
+> Curious to explore the projects I build and the problems I solve? 
+
+👉 [Check out my repositories here](https://github.com/M12Theomoros?tab=repositories)
 
 ---
 ## 🌐 Connect With Me
