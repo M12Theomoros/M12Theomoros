@@ -1,51 +1,6 @@
-<!-- Magnetic Identity Header -->
-<h1 align="center" class="hero-title">
-  <span class="wave">👋</span> Hi there! I'm 
-  <span class="name">Michael</span>
-</h1>
-
-<style>
-.hero-title {
-  font-size: 2.6rem;
-  font-weight: 800;
-  background: linear-gradient(90deg, #00c6ff, #0072ff);
-  -webkit-background-clip: text;
-  color: transparent;
-  animation: float 4s ease-in-out infinite;
-}
-
-.name {
-  color: #22d3ee; /* Electric Cyan */
-  text-shadow: 0 0 12px rgba(34, 211, 238, 0.45);
-  animation: glow 2.5s ease-in-out infinite alternate;
-}
-
-.wave {
-  display: inline-block;
-  animation: wave 1.8s infinite;
-  transform-origin: 70% 70%;
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-6px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes glow {
-  from { text-shadow: 0 0 8px rgba(34, 211, 238, 0.4); }
-  to { text-shadow: 0 0 16px rgba(34, 211, 238, 0.7); }
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(14deg); }
-  40% { transform: rotate(-8deg); }
-  60% { transform: rotate(10deg); }
-  80% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
+<p align="center">
+  <img src="https://github.com/M12Theomoros/m12theomoros-assets/raw/main/magnetic-header.svg" alt="Magnetic Header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&color=%2300c6ff&lines=Building+secure+%26+reliable+systems+for+real-world+problems+%F0%9F%94%92%F0%9F%92%A1;Uncovering+hidden+issues+and+transforming+them+into+improvements+%F0%9F%95%B5%EF%B8%8F%F0%9F%9B%A0%EF%B8%8F;Integrating+AI+to+boost+efficiency+%26+modernize+solutions+%F0%9F%A4%96%E2%9C%A8;Learning+relentlessly+%F0%9F%93%9A+%7C+Creating+fearlessly+%F0%9F%9A%80;Collaborating+to+deliver+meaningful,+robust+systems+%F0%9F%8C%90%F0%9F%A4%96" alt="Typing SVG" />
