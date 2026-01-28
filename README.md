@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/M12Theomoros/m12theomoros-assets/raw/main/magnetic-header.svg" alt="Magnetic Header" />
+  <img src="https://raw.githubusercontent.com/M12Theomoros/M12Theomoros_assets/bd3615cb864891f12f68429bfc3b952286f44511/magnetic_header.svg" alt="Magnetic Header" />
 </p>
 
 <p align="center">
