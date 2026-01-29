@@ -11,7 +11,7 @@ I am a CTF player 🕹️🔐, continuously enhancing my skills in security, pro
 
 I enjoy collaborating with like-minded developers 🤝 to build secure, meaningful systems that simplify complexity and create real impact. 🌐💡
 
-When I’m not coding, I often play chess ♟️ — it helps me sharpen my problem-solving, strategic thinking, and foresight, which I bring to my work in secure software development.
+When I’m not programming, I often play chess ♟️ — it helps me sharpen my problem-solving, strategic thinking, and foresight, which I bring to my work in secure software development.
 
 ---
 
