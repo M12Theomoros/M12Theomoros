@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&color=%2300c6ff&lines=Building+secure+%26+reliable+systems+for+real-world+problems+%F0%9F%94%92%F0%9F%92%A1;Uncovering+hidden+issues+and+transforming+them+into+improvements+%F0%9F%95%B5%EF%B8%8F%F0%9F%9B%A0%EF%B8%8F;Integrating+AI+to+boost+efficiency+%26+modernize+solutions+%F0%9F%A4%96%E2%9C%A8;Learning+relentlessly+%F0%9F%93%9A+%7C+Creating+fearlessly+%F0%9F%9A%80;Collaborating+to+deliver+meaningful,+robust+systems+%F0%9F%8C%90%F0%9F%A4%96" alt="Typing SVG" style="display:block; margin-top:0px;" />
 </div>
 
-## 💫 About Me:
+## 💫 About Me: 
 
 I am currently focused on full-stack web development, delivering robust, secure, and innovative solutions to real-world problems across multiple sectors. I enjoy integrating AI into web applications to improve efficiency, modernize systems, and build scalable, future-ready solutions.
 
