@@ -88,7 +88,6 @@ When I’m not programming, I often play chess ♟️ — it helps me sharpen my
 <p align="center">
   <a href="mailto:miracledmike12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/michael-habtamu-2ab282321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="twitter/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
